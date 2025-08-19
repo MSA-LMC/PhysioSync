@@ -20,7 +20,7 @@ pip install -r requirements.txt
 (Alternatively, if you use conda:)
 
 ```bash
-conda create -n physiosync python=3.9
+conda create -n physiosync python=3.8
 conda activate physiosync
 pip install -r requirements.txt
 ```
