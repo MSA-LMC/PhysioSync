@@ -47,8 +47,24 @@ cd Fine_tuning
 python fine_tuning.py 
 ```
 
+## 📊 Experimental Results
 
-## Citation
+We report results under **Dependent** (within-subject) and **Cross-subject** evaluation protocols for DEAP and DREAMER datasets.
+
+### 1️⃣ Dependent (Within-Subject) Results
+![Dependent DEAP Results](figures/dependent_deap.png)
+*Dependent DEAP results*
+
+![Dependent DREAMER Results](figures/dependent_dreamer.png)
+*Dependent DREAMER results*
+
+### 2️⃣ Cross-Subject Results
+
+![Cross-Subject DEAP Results](figures/cross_subject.png)
+*Cross-subject results*
+
+
+## 📖Citation
 ```
 @misc{cui2025physiosynctemporalcrossmodalcontrastive,
       title={PhysioSync: Temporal and Cross-Modal Contrastive Learning Inspired by Physiological Synchronization for EEG-Based Emotion Recognition}, 
