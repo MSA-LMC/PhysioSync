@@ -32,15 +32,15 @@ Please download the datasets from their official sources
 - [DREAMER](https://zenodo.org/records/546113)
 
 
-## 🏃Pre-training and Fine-tuning
+## 🏃Pre-Training and Fine-Tuning
 Take DEAP's "Dependent" as an example
 
-### Training
+### Pre-Training
 ```bash
 python main_pretrain_1s.py
 python main_pretrain_5s.py
 ```
-### Fine-tuning
+### Fine-Tuning
 
 ```bash
 cd Fine_tuning
