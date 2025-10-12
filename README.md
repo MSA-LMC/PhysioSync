@@ -66,14 +66,14 @@ We report results under **Dependent** (within-subject) and **Cross-subject** eva
 
 ## 📖Citation
 ```
-@misc{cui2025physiosynctemporalcrossmodalcontrastive,
-      title={PhysioSync: Temporal and Cross-Modal Contrastive Learning Inspired by Physiological Synchronization for EEG-Based Emotion Recognition}, 
-      author={Kai Cui and Jia Li and Yu Liu and Xuesong Zhang and Zhenzhen Hu and Meng Wang},
-      year={2025},
-      eprint={2504.17163},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.17163}, 
-}
+@ARTICLE{11199963,
+  author={Cui, Kai and Li, Jia and Liu, Yu and Zhang, Xuesong and Hu, Zhenzhen and Wang, Meng},
+  journal={IEEE Transactions on Computational Social Systems}, 
+  title={PhysioSync: Temporal and Cross-Modal Contrastive Learning Inspired by Physiological Synchronization for EEG-Based Emotion Recognition}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TCSS.2025.3602913}}
 ```
 
