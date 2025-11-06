@@ -4,9 +4,9 @@
 
 
 ## 🚀 Introduction
-PhysioSync is a pre-training framework for EEG-based emotion recognition that leverages **temporal and cross-modal contrastive learning** inspired by physiological synchronization.  
-It incorporates **Cross-Modal Consistency Alignment (CM-CA)** to capture dynamic relationships between EEG and Peripheral Physiological Signals (PPS), and **Long- and Short-Term Temporal Contrastive Learning (LS-TCL)** to model emotional fluctuations across different time resolutions.  
-Experiments on **DEAP** and **DREAMER** demonstrate that PhysioSync achieves robust improvements in both uni-modal and cross-modal settings.
+- PhysioSync is a pre-training framework for EEG-based emotion recognition that leverages **temporal and cross-modal contrastive learning** inspired by physiological synchronization.  
+- It incorporates **Cross-Modal Consistency Alignment (CM-CA)** to capture dynamic relationships between EEG and Peripheral Physiological Signals (PPS), and **Long- and Short-Term Temporal Contrastive Learning (LS-TCL)** to model emotional fluctuations across different time resolutions.  
+- Experiments on **DEAP** and **DREAMER** demonstrate that PhysioSync achieves robust improvements in both uni-modal and cross-modal settings.
 
 ## 📦Create environment
 
