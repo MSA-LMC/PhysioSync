@@ -1,7 +1,7 @@
 # PhysioSync: Temporal and Cross-Modal Contrastive Learning Inspired by Physiological Synchronization for EEG-based Emotion Recognition
 
 [![arXiv](https://img.shields.io/badge/arXiv-2504.17163-b31b1b.svg)](https://arxiv.org/abs/2504.17163)
-
+[![IEEE TCSS](https://img.shields.io/badge/IEEE%20TCSS-11199963-00539F)](https://ieeexplore.ieee.org/document/11199963)
 
 ## 🚀 Introduction
 - PhysioSync is a pre-training framework for EEG-based emotion recognition that leverages **temporal and cross-modal contrastive learning** inspired by physiological synchronization.  
